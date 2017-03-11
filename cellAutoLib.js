@@ -1,4 +1,4 @@
-function CellAutoCell(locX, locY) {
+export function CellAutoCell(locX, locY) {
 	this.x = locX;
 	this.y = locY;
 
